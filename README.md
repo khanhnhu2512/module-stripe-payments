@@ -1,0 +1,2 @@
+# module-payments
+ Stripe Payments
