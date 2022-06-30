@@ -1,5 +1,5 @@
 {
-    "name": "stripe/module-payments",
+    "name": "khanhnhu/module-payments",
     "type": "magento2-module",
     "description": "Shared component for accepting online payments in Magento 2 using the Stripe payment gateway.",
     "version": "2.7.5",
