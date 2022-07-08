@@ -2,7 +2,7 @@
     "name": "khanhnhu/module-payments",
     "type": "magento2-module",
     "description": "Shared component for accepting online payments in Magento 2 using the Stripe payment gateway.",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "require": {
         "stripe/stripe-php": "^7.33.0"
     },
