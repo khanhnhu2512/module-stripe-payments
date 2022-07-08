@@ -6,9 +6,6 @@
     "require": {
         "stripe/stripe-php": "^7.33.0"
     },
-    "license": [
-        "https://stripe.com/magento/legal"
-    ],
     "autoload": {
         "files": [ "registration.php" ],
         "psr-4": {
